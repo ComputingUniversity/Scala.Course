@@ -15,3 +15,6 @@
 - https://www.coursera.org/learn/scala2-akka-reactive
 - https://www.coursera.org/learn/programming-languages-1
 - https://www.coursera.org/learn/programming-languages2
+- https://www.coursera.org/learn/scala2-functional-program-design
+- https://www.coursera.org/learn/scala2-parallel-programming
+- 
