@@ -6,3 +6,6 @@
 - https://www.coursera.org/learn/introduction-to-big-data-with-spark-hadoop
 - https://www.coursera.org/learn/scala-functional-program-design
 - https://www.coursera.org/learn/scala2-spark-big-data
+- https://www.coursera.org/learn/scala-capstone
+- https://www.coursera.org/projects/configure-scala-intellij
+- https://www.coursera.org/learn/packt-streaming-big-data-with-spark-streaming-scala-and-spark-3-09ksx
