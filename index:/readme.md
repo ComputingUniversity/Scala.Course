@@ -4,4 +4,5 @@
 - https://www.coursera.org/learn/scala2-functional-programming
 - https://www.coursera.org/learn/scala-spark-big-data
 - https://www.coursera.org/learn/introduction-to-big-data-with-spark-hadoop
-- 
+- https://www.coursera.org/learn/scala-functional-program-design
+- https://www.coursera.org/learn/scala2-spark-big-data
