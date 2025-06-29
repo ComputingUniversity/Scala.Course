@@ -12,3 +12,6 @@
 - https://www.coursera.org/learn/scala-parallel-programming
 - https://www.coursera.org/learn/packt-apache-spark-with-scala-hands-on-with-big-data-hilnz
 - https://www.coursera.org/learn/scala-akka-reactive
+- https://www.coursera.org/learn/scala2-akka-reactive
+- https://www.coursera.org/learn/programming-languages-1
+- https://www.coursera.org/learn/programming-languages2
