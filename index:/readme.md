@@ -1,0 +1,7 @@
+- https://www.coursera.org/specializations/scala
+- https://www.coursera.org/learn/effective-scala
+- https://www.coursera.org/learn/scala-functional-programming
+- https://www.coursera.org/learn/scala2-functional-programming
+- https://www.coursera.org/learn/scala-spark-big-data
+- https://www.coursera.org/learn/introduction-to-big-data-with-spark-hadoop
+- 
